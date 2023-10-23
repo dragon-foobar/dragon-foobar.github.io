@@ -564,14 +564,14 @@ comments: true
   the landscape of international finance and empowers individuals
   worldwide.
 
-  ## Answering the common critics
+## Answering the common critics
 
   I am fully aware that the outline to orange pill may not fully take
   the shape of what i have laid out above. Thus in preparation for this,
   i have written our short reponses to potential push backs, arguments
   or questions that you would likely receive.
 
-  ### *"Bitcoin Has No Intrinsic Value"*
+### *"Bitcoin Has No Intrinsic Value"*
 
   The argument that bitcoin lacks intrinsic value is commonly raised by
   skeptics, including those who may not be well-versed in the subject
@@ -588,7 +588,7 @@ comments: true
   flaw, as individuals will always seek avenues for consumption and
   investment.
 
-  ### *"Bitcoin Is Too Volatile to Be Money"*
+### *"Bitcoin Is Too Volatile to Be Money"*
 
   The assertion that bitcoin could never function as a global currency
   due to its perceived volatility rests on a logical fallacy. Volatility
@@ -602,7 +602,7 @@ comments: true
   owning an asset with occasional fluctuations may be preferable to
   holding one with a consistently diminishing value.
 
-  ### *"Bitcoin Is a Ponzi Scheme"*
+### *"Bitcoin Is a Ponzi Scheme"*
 
   The accusation that bitcoin is akin to a Ponzi scheme is often tossed
   around when people conflate bitcoin with the broader cryptocurrency
@@ -618,7 +618,7 @@ comments: true
   that may not share these qualities. For many proponents of bitcoin,
   other cryptocurrencies often hold little relevance.
 
-  ### *"Bitcoin will never be a better asset than housing"*
+### *"Bitcoin will never be a better asset than housing"*
 
   In the context of people saving money (in fiat) for a house deposit
   compared to those saving to acquire bitcoins, the argument often
