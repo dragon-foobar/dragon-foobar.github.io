@@ -10,10 +10,10 @@ comments: true
 
 # The Art of the Orange Pill
 
-#### Colin Gifford | CA
+#### *Colin Gifford | CA*
 
-![](vertopal_0a369ff887c249ebb689ca3d959794e0/media/image1.png){width="2.0in"
-height="1.9375in"}
+![bitcoin_large](https://github.com/dragon-foobar/dragon-foobar.github.io/assets/129810153/d8729e8e-12d5-4f96-a90f-bba1c267a426)
+
 
   ***Orange Pill:** To start seeing the world through the lens of
   bitcoin*
@@ -40,44 +40,28 @@ height="1.9375in"}
 
   This paper presents a clear and strategic approach to reaching
   individuals who are less informed about bitcoin, often referred to as
-  \"Normies.\" This approach is encapsulated in what we call the
-  \"Orange Pill\" methodology.
+  "Normies." This approach is encapsulated in what we call the
+  "Orange Pill" methodology.
 
-  For the purposes of this paper, a \"Normie\" is defined as someone who
+  For the purposes of this paper, a "Normie" is defined as someone who
   exhibits the following characteristics:
 
-  They are unfamiliar with the concept of \'fiat money\' and lack an
+- They are unfamiliar with the concept of 'fiat money' and lack an
   understanding of how government-issued currency is created, beyond the
-  term \'money printing.\'
-
-+-----------------------------------+-----------------------------------+
-|                                   | > Their knowledge of monetary     |
-|                                   | > history is limited, if existent |
-|                                   | > at all.                         |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
-
-+-----------------------------------+-----------------------------------+
-|                                   | > While they may have heard of    |
-|                                   | > bitcoin, their knowledge        |
-|                                   | > typically doesn\'t extend       |
-|                                   | > beyond                          |
-+===================================+===================================+
-+-----------------------------------+-----------------------------------+
-
-  recognizing it as digital currency. They may have encountered common
-  criticisms, such as concerns about money laundering and the
-  environmental impact of mining.
+  term 'money printing.'
+- Their knowledge of monetary history is limited, if existent at all.
+- While they may have heard of bitcoin, their knowledge typically doesn't extend beyond recognizing it as digital currency.
+- They have encountered common criticisms, such as concerns about money laundering and the environmental impact of mining.
 
   We will also assume that you, the reader, possess the following
   characteristics:
 
-  ● You have recently become interested in bitcoin, likely within the
-  past few years.● You have extensively consumed a wide range of content
+- You have recently become interested in bitcoin, likely within the
+  past few years.
+- You have extensively consumed a wide range of content
   related to bitcoin and Austrian economics, including books and
   podcasts.
-
-  ● You have dabbled in the art of \'orange pilling,\' but you may find
+- You have dabbled in the art of 'orange pilling,' but you may find
   it challenging to effectively convey your point when discussing
   bitcoin with others, often resorting to rambling and non-sequential
   arguments rather than delivering precise and compelling explanations.
@@ -86,53 +70,51 @@ height="1.9375in"}
   my guidance for a young enthusiast seeking to promote the
   understanding of the inevitable. I recommend following these steps:
 
-  **Diagnose the Problem**:\
-  ● Learn what inflation actually is and where it comes from whilst
+  ### Diagnose the Problem:
+  - Learn what inflation actually is and where it comes from whilst
   outlining why central banks are illequipped to dealing with the issue.
 
-  **Identify the Properties of the Solution**:\
-  ● Clearly define why these issues are solved by fixing the money.
+  ### Identify the Properties of the Solution**:
+  - Clearly define why these issues are solved by fixing the money.
   Noting the charactistics of sounds money that would create financial
-  equality\
-  **Link these Properties to bitcoin**:\
-  ● Form a strong connection between the identified properties and how
+  equality.
+
+  ### Link these Properties to bitcoin:
+  - Form a strong connection between the identified properties and how
   bitcoin embodies them. Use concrete examples and relatable
-  explanations to illustrate how bitcoin addresses the problems you\'ve
+  explanations to illustrate how bitcoin addresses the problems you've
   diagnosed.
 
-  **Diagnose the problem**
+  ## Diagnose the problem
 
-  In my perspective, initiating an \"orange pill\" moment hinges on
+  In my perspective, initiating an "orange pill" moment hinges on
   people developing a profound aversion to inflation. They should gain
   an understanding of its origins, who it favours, who it hinders, and
   who it empowers. If ordinary individuals took the time to contemplate
   the implications of inflation, it might well lead to widespread
-  unrest. Are we to believe that the money we\'ve earned through our
+  unrest. Are we to believe that the money we've earned through our
   hard work or by offering goods and services to others is gradually
   losing its value while sitting in our bank accounts, all because
   unelected officials can create more of it at their discretion? How can
   such a system be considered equitable?
 
   Theoretically, the initial step in administering the orange pill
-  appears straightforward, but in practice, it\'s undeniably
-  challenging. The key is to bring people into alignment regarding the
-
-  concept of inflation. Anyone who earns an income, pays taxes, or
+  appears straightforward, but in practice, it's undeniably
+  challenging. The key is to bring people into alignment regarding the concept of inflation. Anyone who earns an income, pays taxes, or
   possesses any form of financial independence is currently experiencing
   the pinch of rising prices. We are all too familiar with the sensation
   of squinting at price tags in the grocery store or at the fuel pump.
   As bitcoin proponents, we comprehend that characterizing the past two
-  years as simply \'prices going up\' is an incomplete and factually
+  years as simply 'prices going up\' is an incomplete and factually
   inaccurate perspective. Those of us in the bitcoin community recognise
-  that it\'s the value of our currency that is deliberately diminishing,
-  a situation\
-  outrageously engineered to unfold.
+  that it's the value of our currency that is deliberately diminishing,
+  a situation outrageously engineered to unfold.
 
-  *We Should Despise Inflation:*
+  ### We Should Despise Inflation:
 
-  My initial question to people usually takes the form of, \"Don\'t you
-  detest inflation? Doesn\'t it infuriate you to pay over \$8 for a
-  carton of eggs or \$2 per litre for fuel? Doesn\'t this bother you?\"
+  My initial question to people usually takes the form of, "Don't you
+  detest inflation? Doesn't it infuriate you to pay over $8 for a
+  carton of eggs or $2 per litre for fuel? Doesn't this bother you?"
   Unless they happen to be Larry Fink, I would assume their answer is
   no. However, if people remain indifferent or consider it an inevitable
   facet of life, I follow up with the following argument, often framed
@@ -141,17 +123,14 @@ height="1.9375in"}
   question of who is most adversely affected during inflationary
   periods. The unequivocal answer is that lower and working-class
   individuals bear the brunt of it. In the words of the late George
-  Carlin, \"It\'s a big club, and you ain\'t in it.\" We\'re not merely
+  Carlin, "It's a big club, and you ain't in it." We're not merely
   referring to recent years, but rather to every inflationary bubble
   dating back to the 1920s, 1940s, 1970s, 2000s, and beyond. In each
   instance, the wealth gap between the top 1% and the bottom 90% has
   expanded.
 
-![](vertopal_0a369ff887c249ebb689ca3d959794e0/media/image2.png){width="6.5in"
-height="2.198610017497813in"}
-
-  *The increase in wealth from the top 1%. Notice how the increase is
-  always after a recession*
+  > The increase in wealth from the top 1%. Notice how the increase is
+  always after a recession
 
   Those fortunate enough to have purchased homes with regular incomes
   from the 1970s to even the mid-2000s are now sitting on what seems
@@ -164,9 +143,7 @@ height="2.198610017497813in"}
   The price of an asset above its utility value is what's called the
   monetary premium as people are looking at it as a store of value. Real
   estate has been an ever growing source of wealth over the past 50
-  years meaning that it's monetary value
-
-  has grown substantially over that time. To help your friends grasp
+  years meaning that it's monetary value has grown substantially over that time. To help your friends grasp
   this concept, you might ask them why a low-cost watch loses value
   while a Rolex appreciates over time.
 
@@ -174,38 +151,34 @@ height="2.198610017497813in"}
   who possess hard assets like real estate, jewelry, and stocks, often
   at the expense of those who do not. The wealth gap widens due to a
   self-reinforcing inflation cycle: If you already own hard assets,
-  their value increases and you become even wealthier; if you don\'t,
+  their value increases and you become even wealthier; if you don't,
   you find yourself further priced out of the market as inflation raises
   asset prices through credit bubbles. People need to recognise this
   phenomenon.
 
-  What makes inflation particularly insidious is that it doesn\'t affect
+  What makes inflation particularly insidious is that it doesn't affect
   everyone uniformly or randomly. The crucial point to emphasize is that
   inflation disproportionately advantages individuals with existing
   wealth while placing an added burden on those with lower incomes. This
   perpetuates the wealth gap.
 
-  ![](vertopal_0a369ff887c249ebb689ca3d959794e0/media/image3.png){width="5.906944444444444in"
-  height="4.875in"}
+  > Years it takes to save for a house, arrow points to when President
+  Nixon closed the gold exchange window in 1971
 
-  *Years it takes to save for a house, arrow points to when President
-  Nixon closed the gold exchange window in 1971*
+  ### Cause and Effect
 
-  *Cause and Effect*
+  So, we've identified inflation as the problem, but now let's delve
+  into why it's happening. Starting with a straightforward question
+  like, "What do you think has caused inflation over the past two
+  years?" may lead the conversation in different directions. However,
+  it's likely that you'll encounter two main types of answers:
 
-  So, we\'ve identified inflation as the problem, but now let\'s delve
-  into why it\'s happening. Starting with a straightforward question
-  like, \"What do you think has caused inflation over the past two
-  years?\" may lead the conversation in different directions. However,
-  it\'s likely that you\'ll\
-  encounter two main types of answers:
-
-  a\) Supply chain disruptions due to factors like wars or the pandemic.
+  a) Supply chain disruptions due to factors like wars or the pandemic.
   b) Price gouging by corporations.
 
   The first type of answer relates to a supply shock. While such shocks
-  are relatively common in our globalised economy, they don\'t fully
-  explain the consistent month-on-month price increases we\'ve witnessed
+  are relatively common in our globalised economy, they don't fully
+  explain the consistent month-on-month price increases we've witnessed
   over the past 24 months. Supply shocks essentially result from a
   temporary mismatch between supply and demand. When supply chains are
   severely affected, as they were during the war and pandemic,
@@ -214,60 +187,57 @@ height="2.198610017497813in"}
   inflation due to unforeseen natural events is inevitable and is akin
   to speed bumps on the road of economic progress.
 
-  What\'s important to note is that the free market is best suited to
-  address these issues. As Saifedean Amous explains in \"The bitcoin
-  Standard,\" an increase in the price of a particular good incentivizes
+  What's important to note is that the free market is best suited to
+  address these issues. As Saifedean Amous explains in "The bitcoin
+  Standard," an increase in the price of a particular good incentivizes
   producers to increase production, thereby lowering prices back to
   equilibrium. The key point to emphasize here is that the war in
-  Ukraine, for example, isn\'t the primary reason why the three-bedroom
-  home your parents bought for \$150,000 in 1980 is now comfortably
-  valued at over \$1.5 million.
+  Ukraine, for example, isn't the primary reason why the three-bedroom
+  home your parents bought for $150,000 in 1980 is now comfortably
+  valued at over $1.5 million.
 
   The discussion regarding option B is relatively straightforward.
-  During my time as an\
-  accountant, I experienced a disruption one morning when the workers\'
+  During my time as an accountant, I experienced a disruption one morning when the workers'
   union gathered outside our building, demanding better pay. While not
   an unfair or novel protest topic, I went downstairs to listen to the
-  local union representative. He claimed, \"The inflation we\'ve felt
+  local union representative. He claimed, "The inflation we\'ve felt
   over the past year is caused by greedy companies and corporate fat
-  cats price-gouging regular Australians.\" Additionally, I\'ve come
+  cats price-gouging regular Australians." Additionally, I've come
   across claims in newspaper articles and the general news suggesting
   that the increase in corporate profits has contributed to 30-40% of
   the inflation over the last year.
 
   In my view, responding to this argument requires little more than a
-  moment\'s reflection. Were these corporations equally greedy in 2019?
-  Why didn\'t we see double-digit inflation and widespread price-gouging
+  moment's reflection. Were these corporations equally greedy in 2019?
+  Why didn't we see double-digit inflation and widespread price-gouging
   four years ago? If corporations exist primarily to maximize profits,
   why is this happening now? These questions essentially answer
   themselves and strongly suggest that inflation is not primarily caused
   by big businesses but is rather leveraged by them.
 
-  While it\'s true that major corporations may use inflation as an
+  While it's true that major corporations may use inflation as an
   excuse to raise prices to the detriment of everyone else, this
   argument misses the point. Essentially, it concedes that the source of
   inflation lies further upstream.
 
-  From this point, we\'re on our way. Remember, we\'re not delving too
-  deeply just yet. Based on my personal experiences, I\'ve found myself
-  stuck by trying to condense everything I\'ve learned over two years
+  From this point, we're on our way. Remember, we're not delving too
+  deeply just yet. Based on my personal experiences, I've found myself
+  stuck by trying to condense everything I've learned over two years
   into such a short amount of time. The result is like a high-powered
-  four-wheel
-
-  drive spinning its tires in the mud -- too much power, not enough
-  traction. We\'ll omit discussions about the extensive monetary history
+  four-wheel drive spinning its tires in the mud -- too much power, not enough
+  traction. We'll omit discussions about the extensive monetary history
   of central banks, the emergence of the petrodollar after Bretton
   Woods, the distinctions between bank lending inflation and fiscal
   inflation, as well as the impending debt spiral and the looming credit
-  crisis for another occasion. For now, we\'re simply posing a few
+  crisis for another occasion. For now, we're simply posing a few
   straightforward questions to set this sizable locomotive in motion.
   Eventually, inertia will take care of the rest.
 
-  Once we\'ve established that we agree with the normie that inflation
+  Once we've established that we agree with the normie that inflation
   is immoral, we should take a step further and emphasize that it stems
   from our flawed monetary system. In our current system, money is
   essentially credit, and credit is money. This situation arises from
-  how our money is created or \"mined.\" To put it simply, instead of
+  how our money is created or "mined." To put it simply, instead of
   new tokens or monetary units being generated by a natural process,
   like the laws of chemistry, our money is brought into existence
   through debt issuance from banks and centrally planned money creation.
@@ -276,13 +246,13 @@ height="2.198610017497813in"}
   detail as needed, but in simpler terms, credit expansion increases the
   overall money supply, thereby diluting the value of each individual
   unit. This phenomenon is what we call monetary inflation and explains
-  the consistent year-over-year price increases we\'ve grown accustomed
+  the consistent year-over-year price increases we've grown accustomed
   to seeing.
 
   Returning to the earlier discussion about the morality of the orange
-  pill, it\'s crucial to point out that excessive government spending
+  pill, it's crucial to point out that excessive government spending
   and credit creation only worsen the problem they claim to solve.
-  There\'s a circular logic at play here, similar to wealth creation.
+  There's a circular logic at play here, similar to wealth creation.
   The federal government and central banks create inflation through poor
   monetary policies and fiscal deficit spending, which, in turn, fuels
   inflation. Inflation disproportionately affects lower-income
@@ -290,39 +260,39 @@ height="2.198610017497813in"}
 
   Governments then respond with more spending, causing further
   inflation. Even from the perspective of Keynesian economics, this
-  spending won\'t have a 1:1 impact on aggregate demand, thus increasing
-  inflation. Therefore, it\'s like a snake eating its own tail: more
+  spending won't have a 1:1 impact on aggregate demand, thus increasing
+  inflation. Therefore, it's like a snake eating its own tail: more
   spending drives up inflation, leaving poorer people further behind,
   which necessitates more spending. This is how governments tend to
   expand.
 
-  Another point I\'d like the reader to explore with their normie is to
+  Another point I'd like the reader to explore with their normie is to
   challenge the necessity of inflation. In my university studies, I was
   taught that the target inflation rate is set at 2-3%, considered a
-  \'Goldilocks\' scenario. However, a glaring question arises: why? Why
+  'Goldilocks' scenario. However, a glaring question arises: why? Why
   does an economy require a consistent 2% inflation rate? Why not 4% or
   5%? The Reserve Bank of Australia (RBA) sets the inflation target
-  between 2-3% with the goal of \"achieving price stability, full
-  employment, and prosperity for the Australian people.\" This answer
+  between 2-3% with the goal of "achieving price stability, full
+  employment, and prosperity for the Australian people." This answer
   strikes me as absurd, and I prefer to break down the response into
   three subparts.
 
-  Firstly, if stability means staying the same, wouldn\'t a better
-  target rate be 0%? After all, that\'s the only way prices would
+  Firstly, if stability means staying the same, wouldn't a better
+  target rate be 0%? After all, that's the only way prices would
   genuinely remain stable, right? Imagine how much simpler and less
   stressful daily life would be if you could guarantee that prices for
   supermarket goods, insurance, or overseas travel would remain constant
-  year after year. Furthermore, you wouldn\'t need to become an
-  investment expert just to preserve the money you\'ve already earned,
+  year after year. Furthermore, you wouldn't need to become an
+  investment expert just to preserve the money you've already earned,
   because no bank would offer a savings rate higher than inflation. If
-  it\'s my money, why can\'t I retain its value?
+  it's my money, why can't I retain its value?
 
   Secondly, the answer to the aforementioned question is that without
   inflation, our economy would implode. This is not an exaggeration.
   Since our economy is based on credit to fund a large majority of
   transactions, central bankers have no choice but to be married to
   inflation. To illustrate a fundamental debt concept, consider this: I
-  borrow \$100 from you today and agree to repay you in a year\'s time.
+  borrow $100 from you today and agree to repay you in a year's time.
   Since I repay you in nominal terms, like all debt contracts, with a
   10% inflation rate, the \$100 I borrowed from you a year ago is
   effectively worth \$90 when I make the payment. As you can see, this
