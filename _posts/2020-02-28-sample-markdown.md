@@ -4,7 +4,7 @@ title: The Art of Orange Pill
 subtitle: How to articulate Bitcoin's value proposition
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [how-to]
 comments: true
 ---
 
@@ -174,6 +174,7 @@ comments: true
   it's likely that you'll encounter two main types of answers:
 
   a) Supply chain disruptions due to factors like wars or the pandemic.
+
   b) Price gouging by corporations.
 
   The first type of answer relates to a supply shock. While such shocks
@@ -200,7 +201,7 @@ comments: true
   During my time as an accountant, I experienced a disruption one morning when the workers'
   union gathered outside our building, demanding better pay. While not
   an unfair or novel protest topic, I went downstairs to listen to the
-  local union representative. He claimed, "The inflation we\'ve felt
+  local union representative. He claimed, "The inflation we've felt
   over the past year is caused by greedy companies and corporate fat
   cats price-gouging regular Australians." Additionally, I've come
   across claims in newspaper articles and the general news suggesting
@@ -224,7 +225,7 @@ comments: true
   deeply just yet. Based on my personal experiences, I've found myself
   stuck by trying to condense everything I've learned over two years
   into such a short amount of time. The result is like a high-powered
-  four-wheel drive spinning its tires in the mud -- too much power, not enough
+  four-wheel drive spinning its tires in the mud - too much power, not enough
   traction. We'll omit discussions about the extensive monetary history
   of central banks, the emergence of the petrodollar after Bretton
   Woods, the distinctions between bank lending inflation and fiscal
@@ -294,15 +295,15 @@ comments: true
   inflation. To illustrate a fundamental debt concept, consider this: I
   borrow $100 from you today and agree to repay you in a year's time.
   Since I repay you in nominal terms, like all debt contracts, with a
-  10% inflation rate, the \$100 I borrowed from you a year ago is
-  effectively worth \$90 when I make the payment. As you can see, this
+  10% inflation rate, the $100 I borrowed from you a year ago is
+  effectively worth $90 when I make the payment. As you can see, this
   situation benefits the borrower at the expense of the lender and forms
   a crucial part of why debt is so attractive in our modern economy.
 
-  Now, let\'s switch gears and introduce 10% deflation. That same \$100
-  we borrowed today would be worth \$110 when we repay it. This poses a
+  Now, let's switch gears and introduce 10% deflation. That same $100
+  we borrowed today would be worth $110 when we repay it. This poses a
   problem for the borrower, who would incur an additional cost to
-  service the debt. If we extrapolate this logic to the \$33 trillion of
+  service the debt. If we extrapolate this logic to the $33 trillion of
   publicly funded debt that the US government owes, we can understand
   why central economies are averse to deflation. It would be
   catastrophic. From this scenario, we can conclude that deflation is
@@ -313,47 +314,51 @@ comments: true
   viewed as a blessing and aligns with the process of modernizing
   economies.
 
-  I\'m not sure if the Chairman of the Federal Reserve has the easiest
+  I'm not sure if the Chairman of the Federal Reserve has the easiest
   or hardest job in the world.
 
   Instead of debating this, I would liken their role to attempting to
   fit a square peg into a round hole. Runaway debt leads to credit
-  bubbles, asset bubbles, and inflation, as we\'ve discussed, and these
+  bubbles, asset bubbles, and inflation, as we've discussed, and these
   issues have severe and harmful consequences, particularly for the
-  lower and middle class. So, you\'d think Jerome Powell has been
+  lower and middle class. So, you'd think Jerome Powell has been
   equipped with the best tools imaginable to tackle these challenges,
-  right? Wrong. He primarily relies on two tools: a) Creating money out
-  of thin air or removing it to directly impact the money supply
-  (Quantitative Easing or Tightening), and b) Adjusting borrowing costs
-  to indirectly influence the money supply through interest rate
-  changes. Both of these tools lack the precision required for the task
+  right? Wrong. He primarily relies on two tools:
+
+  a) Creating money out of thin air or removing it to directly impact the money supply
+  (Quantitative Easing or Tightening), and
+
+  b) Adjusting borrowing costs to indirectly influence the money supply through interest rate
+  changes.
+
+  Both of these tools lack the precision required for the task
   at hand and are assessed only on a monthly basis (quarterly in
   Australia). He is unable to intervene effectively when runaway
   inflation is caused by government deficit spending and his policies
   cannot be voted on in the House or Senate. This is the same for all
-  central banks
+  central banks.
 
   To further emphasize this point, consider how distant these
   policymakers are from the indicators they use. The heads of central
   banks confidently claim that they closely monitor lagging indicators
   like unemployment, business loan delinquencies, and consumer spending
-  to determine if their recent rate adjustments are effective. Let\'s
+  to determine if their recent rate adjustments are effective. Let's
   put this in simpler terms for our target audience: Did enough people
   lose their jobs? Did enough businesses go bankrupt? Did enough
   families spend so much on their mortgages this month that they can\'t
-  afford anything else to justify the Chairman\'s decision? How is this
+  afford anything else to justify the Chairman's decision? How is this
   not seen as morally questionable? Each lever they pull has the
-  potential (and often does) to devastate someone\'s life, particularly
+  potential (and often does) to devastate someone's life, particularly
   impacting those with very little, who spend a larger portion of their
   income each year and are more vulnerable to job losses.
 
-**Identifying the characteristics of the solution**
+## Identifying the characteristics of the solution
 
   The distinction between pessimism and optimism lies in the presence of
   a solution. It can be challenging not to feel somewhat disheartened
   when we chart the trajectories of economic trends and contemplate
-  their implications for future generations. However, it\'s crucial to
-  connect the issues we\'ve identified with the number one solution:
+  their implications for future generations. However, it's crucial to
+  connect the issues we've identified with the number one solution:
   bitcoin. To facilitate understanding, I propose breaking down this
   next step into two parts. To make the explanation easier i suggest
   breaking this next step into two parts, and since we know that credit
@@ -381,10 +386,10 @@ comments: true
   To underscore these characteristics, we should discuss their
   suitability. Although we\'ve briefly touched on each of them
   throughout our explanations, to effectively convey the idea of an
-  \"orange pill,\" we must emphasize that for a currency to succeed, it
+  "orange pill," we must emphasize that for a currency to succeed, it
   must exhibit suitability across time, space, and scale.
 
-  **Salability across time**
+  ### Salability across time
 
   Our supermoney needs to be a good store of value. If we think about a
   car or computer, they lose value over time as we use them and they
@@ -404,7 +409,7 @@ comments: true
   for our supercurrency to be salable across time it needs to durable,
   fungable and scarce.
 
-  **Salability Across Space**
+  ### Salability Across Space
 
   Salability across space refers to a currency\'s capacity to be
   effortlessly transported and accepted across vast distances. For money
@@ -425,16 +430,16 @@ comments: true
   scenario, I must convert my Australian Dollars (AUD) into Euros (EUR),
   likely through an intermediate step involving USD. Notably, I was
   taken aback by the cost when I last engaged in such a transaction.
-  While I knew the exchange rate was around \$0.70 when I visited France
-  to see my sister, it had dropped to below \$0.55, representing a 13%
+  While I knew the exchange rate was around $0.70 when I visited France
+  to see my sister, it had dropped to below $0.55, representing a 13%
   decrease. The reasons behind this can be complex but essentially boil
   down to disparities in interest rate changes between the EU and
   Australia as both economies grapple with inflation. Given that the EU
   offers higher interest rates, more individuals are inclined to invest
-  in the EUR compared to a year ago, driving up the Euro\'s price while\
+  in the EUR compared to a year ago, driving up the Euro's price while\
   simultaneously reducing demand for the AUD.
 
-  For normies, I would pose the question: wouldn\'t it be more
+  For normies, I would pose the question: wouldn't it be more
   convenient if Australia, Europe, and indeed the entire world adopted a
   single currency? How beneficial would this be for developing nations
   if they could simply trade using USD? However, one should consider
@@ -444,7 +449,7 @@ comments: true
   while our supercurrency should be free from control by any single
   group or organization, it should also be borderless.
 
-  **Salability Across Scale**
+  ### Salability Across Scale
 
   Our new supermoney must also scale efficiently. It should function as
   a unit of account that can be added, subtracted, multiplied, and
@@ -453,26 +458,26 @@ comments: true
   shells served as money; how did one determine the value of half a
   shell? Did half a shell equate precisely to half the value of a full
   one? And what about variations in tobacco quality? These are the
-  questions our new super currency must address, and it\'s an area where
+  questions our new super currency must address, and it's an area where
   fiat money has an advantage. Our supercurrency will be highly
   divisible, eliminating friction caused by incorrect amounts and
   thereby enhancing its utility as a currency.
 
-**Linking these characteristics to bitcoin**
+### Linking these characteristics to bitcoin
 
   We have now recognised that the current monetary system relies on
   credit and is not only inherently flawed but also destined to fail
-  mathematically. We\'ve also outlined the characteristics of an ideal
+  mathematically. We've also outlined the characteristics of an ideal
   hypothetical money. This is where we draw the connection to bitcoin.
-  In this part of the discussion, it\'s beneficial to view bitcoin as a
-  kind of \'super gold,\' possessing all the desirable qualities of
+  In this part of the discussion, it's beneficial to view bitcoin as a
+  kind of 'super gold,' possessing all the desirable qualities of
   money without the associated drawbacks. To bridge this understanding,
-  let\'s explore bitcoin\'s engineering, ensuring we provide an
-  introduction that doesn\'t delve too deeply into the technical aspects
+  let's explore bitcoin's engineering, ensuring we provide an
+  introduction that doesn't delve too deeply into the technical aspects
   but still conveys the authenticity of our argument.
 
   To establish a foundation for understanding bitcoin\'s engineering,
-  it\'s advisable to define key terms.
+  it's advisable to define key terms.
 
   **Open Source** - the code which all bitcoin nodes run on, the code
   for bitcoin can be viewed by anyone in it's enterity. If there is any
@@ -487,13 +492,13 @@ comments: true
   consisting of a decentralised and immutable ledger that records all
   bitcoin transactions in chronological order, forming a chain of
   blocks, each containing a batch of transactions.
->
+  
   **Proof of Work** - A piece of data that requires significant
   computation to find. In bitcoin, miners must find a numeric solution
   to the SHA256 algorithm that meets a network-wide target, the
   difficulty target.
 
-  **How bitcoin Achieves Salability Across Time**
+  ### How bitcoin Achieves Salability Across Time
 
   The key beauty of bitcoin lies in its fixed supply - there will only
   ever be 21,000,000 bitcoins. We previously established that for a
@@ -505,12 +510,12 @@ comments: true
   can mathematically only go up.
 
   From an engineering perspective, the open-source nature of bitcoin is
-  crucial. bitcoin\'s source code is accessible to anyone with a
-  computer and an internet connection, and it\'s approved by all network
-  nodes. It\'s important to unpack the concept of open source and nodes
+  crucial. bitcoin's source code is accessible to anyone with a
+  computer and an internet connection, and it's approved by all network
+  nodes. It's important to unpack the concept of open source and nodes
   to help your audience grasp this aspect.
 
-  **How bitcoin Achieves Salability Across Space**
+  ### How bitcoin Achieves Salability Across Space
 
   bitcoin, being an adaptive technology, allows for transactions between
   any two individuals across the globe. With functional layer-two
@@ -518,37 +523,35 @@ comments: true
   internet connection. This means there are no foreign exchange (FX)
   variations and minimal frictions when sending money. While we do pay a
   transaction fee to miners for including our transaction on the
-  blockchain, it\'s analogous to the fees incurred with Visa or
+  blockchain, it's analogous to the fees incurred with Visa or
   Mastercard transactions.
 
-  In our quest to Orange Pill, it\'s essential to be open to the idea
+  In our quest to Orange Pill, it's essential to be open to the idea
   that bitcoin might not function as a primary layer but rather serve as
   the foundational currency upon which secondary fiat layers are
   constructed. Regardless of how you present this to your audience,
-  it\'s important to highlight that international settlements become
+  it's important to highlight that international settlements become
   significantly more straightforward and cost-effective when using
-  bitcoin instead of traditional FX trading. As a side note, it\'s worth
+  bitcoin instead of traditional FX trading. As a side note, it's worth
   mentioning that everything is currently priced in USD, so we would
   exchange USD for BTC in this context.
 
-  **How bitcoin acheives salability across scale**
+  ### How bitcoin acheives salability across scale
 
-  bitcoin\'s ability to achieve salability across space is a testament
+  bitcoin's ability to achieve salability across space is a testament
   to its revolutionary design and the power of decentralised networks.
   Unlike traditional currencies that rely on intermediaries like banks
   and payment processors for cross-border transactions, bitcoin operates
   on a global scale without the need for such middlemen. This inherent
-  decentralisation allows individuals\
-  worldwide to engage in peer-to-peer transactions, bridging
+  decentralisation allows individuals worldwide to engage in peer-to-peer transactions, bridging
   geographical gaps effortlessly. What sets bitcoin apart is its
   lightning-fast transaction speeds and minimal transaction fees, making
   it the go-to option for cross-border payments. With bitcoin,
   geographical borders become virtually irrelevant as it enables secure
   and instantaneous value transfer across the world.
 
-  Furthermore, bitcoin\'s borderless nature makes it a driving force
-  behind the future of\
-  international commerce and financial inclusion. It serves as a bridge
+  Furthermore, bitcoin's borderless nature makes it a driving force
+  behind the future of international commerce and financial inclusion. It serves as a bridge
   between traditional fiat currencies, simplifying international
   settlements and reducing the complexities associated with foreign
   exchange trading. As a global standard, bitcoin is increasingly used
@@ -557,18 +560,18 @@ comments: true
   transactions not only enhances the efficiency of global finance but
   also empowers individuals in regions with limited access to
   traditional banking systems, promoting financial inclusivity on a
-  global scale. In essence, bitcoin\'s salability across space redefines
+  global scale. In essence, bitcoin's salability across space redefines
   the landscape of international finance and empowers individuals
   worldwide.
 
-  **Answering the common critics**
+  ## Answering the common critics
 
   I am fully aware that the outline to orange pill may not fully take
   the shape of what i have laid out above. Thus in preparation for this,
   i have written our short reponses to potential push backs, arguments
   or questions that you would likely receive.
 
-  *"Bitcoin Has No Intrinsic Value"*
+  ### *"Bitcoin Has No Intrinsic Value"*
 
   The argument that bitcoin lacks intrinsic value is commonly raised by
   skeptics, including those who may not be well-versed in the subject
@@ -577,47 +580,45 @@ comments: true
   subjective. While some argue for an objective value based on
   quantifiable factors, such as the labor required for production, the
   Austrian perspective highlights the subjectivity of value, tied
-  closely to\
-  individuals\' preferences and needs. In the case of bitcoin, its value
-  is rooted in what it\
-  represents: a viable alternative to the existing financial system. It
+  closely to individuals' preferences and needs. In the case of bitcoin, its value
+  is rooted in what it represents: a viable alternative to the existing financial system. It
   stands as a form of money impervious to inflation and beyond the
   control of central authorities. The distinction between bitcoin as a
   store of value and a medium of exchange should not be perceived as a
   flaw, as individuals will always seek avenues for consumption and
   investment.
 
-  *"Bitcoin Is Too Volatile to Be Money"*
+  ### *"Bitcoin Is Too Volatile to Be Money"*
 
   The assertion that bitcoin could never function as a global currency
   due to its perceived volatility rests on a logical fallacy. Volatility
   is a measure of the rate of change in the price of any asset or
-  currency. When discussing bitcoin\'s volatility, it\'s crucial to
-  consider the broader trend. Over the years, bitcoin\'s volatility has
+  currency. When discussing bitcoin's volatility, it's crucial to
+  consider the broader trend. Over the years, bitcoin's volatility has
   consistently decreased as adoption has expanded. This means that it
   now requires a more substantial influx of capital to trigger
   significant price fluctuations, resulting in greater price stability.
-  While some criticise bitcoin\'s price swings, it\'s worth noting that
+  While some criticise bitcoin's price swings, it\'s worth noting that
   owning an asset with occasional fluctuations may be preferable to
   holding one with a consistently diminishing value.
 
-  *"Bitcoin Is a Ponzi Scheme"*
+  ### *"Bitcoin Is a Ponzi Scheme"*
 
   The accusation that bitcoin is akin to a Ponzi scheme is often tossed
   around when people conflate bitcoin with the broader cryptocurrency
   market. Critics frequently point to issues on cryptocurrency exchanges
   like FTX or Binance as evidence of the entire crypto space being
-  fraudulent. It\'s essential to distinguish bitcoin from other
+  fraudulent. It's essential to distinguish bitcoin from other
   cryptocurrencies in this context. bitcoin is a completely
   decentralised open-source protocol with a proven track record of
   security through verified proof of work. Unlike many other
   cryptocurrencies, it fully embodies these three critical attributes.
-  As such, bitcoin stands as a distinct entity, closer to the ideals of\
+  As such, bitcoin stands as a distinct entity, closer to the ideals of
   decentralisation and security, in contrast to other cryptocurrencies
   that may not share these qualities. For many proponents of bitcoin,
   other cryptocurrencies often hold little relevance.
 
-  *"Bitcoin will never be a better asset than housing"*
+  ### *"Bitcoin will never be a better asset than housing"*
 
   In the context of people saving money (in fiat) for a house deposit
   compared to those saving to acquire bitcoins, the argument often
@@ -627,33 +628,31 @@ comments: true
   since the 1970s, inherently carries a monetary premium. Consequently,
   they view real estate not solely as an investment opportunity but as a
   primary place of residence, with potential for future profit upon
-  sale. Many
-
-  individuals invest their entire equity in their homes (sometimes with
+  sale. Many individuals invest their entire equity in their homes (sometimes with
   150% debt) due to the common belief that \'property values always
-  appreciate,\' without delving into the reasons behind this trend.
-  It\'s crucial to remember that the poor monetary management by central
+  appreciate,' without delving into the reasons behind this trend.
+  It's crucial to remember that the poor monetary management by central
   banks compels people to seek stores of value for their money. In light
   of this, why not allocate this monetary premium into the currency
   itself?
 
-  In conclusion, I\'d like to point out that the journey of adopting the
-  orange pill may not always be easy, and I\'m asserting that this
-  isn\'t necessarily the definitive argument on how to do it. To be
-  candid, this is the first paper I\'ve ever written outside of school
+  In conclusion, I'd like to point out that the journey of adopting the
+  orange pill may not always be easy, and I'm asserting that this
+  isn't necessarily the definitive argument on how to do it. To be
+  candid, this is the first paper I've ever written outside of school
   and university settings. I embarked on this endeavor not only to prove
   to myself that I can write but also to develop and explore ideas to
   their logical conclusions, to test if they can stand on their own
   merits.
 
-  We can all make educated guesses about where bitcoin\'s price is
+  We can all make educated guesses about where bitcoin's price is
   headed, but in reality, who truly knows? Tomorrow, it may surge to
-  \$60k or plummet to zero. Nonetheless, I remain appreciative of the
-  valuable lessons I\'ve learned on this journey. These lessons
+  $60k or plummet to zero. Nonetheless, I remain appreciative of the
+  valuable lessons I've learned on this journey. These lessons
   encompass concepts like reducing time preference, maintaining
   consistent effort, embracing a diet of unprocessed foods, recognizing
   the importance of family and friends, and understanding the perils of
-  excessive alcohol consumption. These are lessons that I\'ve gathered
+  excessive alcohol consumption. These are lessons that I've gathered
   during my journey, and I intend to carry them forward and share them
   with others indefinitely.
 
@@ -663,24 +662,27 @@ comments: true
 
   Stay Healthy and Stack sats
 
-  Colin Gifford\
+  Colin Gifford
+  
   September 2023
 
-  **References:**
+  ## References
 
-  **Books:**
+  ### Books
 
-  Amous, S. (2017). The bitcoin Standard. John Wiley & Sons, Inc.,
-  Hoboken, New Jersey Andreas M. Antonopoulos. (2014). Mastering
-  bitcoin: Unlocking Digital Cryptocurrencies.
+  Amous, S. (2017). **The Bitcoin Standard.** John Wiley & Sons, Inc.,
+  Hoboken, New Jersey 
+  
+  Andreas M. Antonopoulos. (2014). **Mastering bitcoin: Unlocking Digital Cryptocurrencies**.
 
-  **Websites:**
+  ### Websites:
 
-  Alden, L. (2023). \"Lyn Alden Investment Strategy.\" \[\]. WTF
-  Happened in 1971?. (n.d.). \[Website\]. https://wtfhappenedin1971.com/
+  Alden, L. (2023). "Lyn Alden Investment Strategy." [Website](https://www.lynalden.com/). 
+  
+  WTF Happened in 1971?. (n.d.). [Website](https://wtfhappenedin1971.com/)
 
-  Title of Dataset: \[Share of Total Net Worth Held by the Top 1% (99th
-  to 100th Wealth Percentiles)\]\
-  Source: Federal Reserve Economic Data (FRED)\
-  URL: https://fred.stlouisfed.org/series/WFRBST01134\
+  Title of Dataset: **Share of Total Net Worth Held by the Top 1% (99th
+  to 100th Wealth Percentiles**
+  Source: Federal Reserve Economic Data (FRED)
+  [Website](https://fred.stlouisfed.org/series/WFRBST01134)
   Accessed Date: 01/09/2023
